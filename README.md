@@ -17,6 +17,7 @@ Note: When installing check the type of operating system ( ex: Windows, MacOS, L
 8. To configure the Tomcat Server
 
       Window < Show View < Servers
+   
    a. You will see the servers tab open up at the bottom
    b. Click on the link indicating to create a new connection
    c. Click on Apache then Tomcat Server 8.5v
