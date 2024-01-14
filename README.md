@@ -19,9 +19,13 @@ Note: When installing check the type of operating system ( ex: Windows, MacOS, L
       Window < Show View < Servers
    
    a. You will see the servers tab open up at the bottom
+   
    b. Click on the link indicating to create a new connection
+   
    c. Click on Apache then Tomcat Server 8.5v
+   
    d. Click on Next and you will see the DemoApp in the Avaliable portion of the page
+   
    e. Click on Add all then the Finish button
    
 10. You will then right click the Tomcat Server connection in the Servers tab and click Start
