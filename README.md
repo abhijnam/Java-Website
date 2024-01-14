@@ -31,9 +31,9 @@ Note: When installing check the type of operating system ( ex: Windows, MacOS, L
 10. You will then right click the Tomcat Server connection in the Servers tab and click Start
 11. you will then click on the ">" icon next to the DemoApp and navigate to the index.html file
     
-   a. The index.html file is located at
-   
-   DemoApp < src < main < webapp < index.html
+      a. The index.html file is located at
+    
+      DemoApp < src < main < webapp < index.html
    
 13. You can now run the index.html file by clicking on the green start button below the menu bar
    
