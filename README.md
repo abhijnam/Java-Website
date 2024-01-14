@@ -1,9 +1,12 @@
 # Java-Website
 Software Needed
-1. https://www.eclipse.org/downloads/packages/installer
-2. Follow the steps given on the webpage once you downloaded the Eclipse installation package
+ https://www.eclipse.org/downloads/packages/installer
+ 
+ Follow the steps given on the webpage once you downloaded the Eclipse installation package
+ 
 Note: When installing check the type of operating system ( ex: Windows, MacOS, Linux) you have and click on the respective link
-3. On step 3 make sure to select the version of Eclipse for Java ee Developers
+
+On step 3 make sure to select the version of Eclipse for Java ee Developers
 ## How to start the website
 1. Download the zip files given in this repository
 2. Create a separate folder to store these zip files
