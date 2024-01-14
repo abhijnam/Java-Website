@@ -11,7 +11,7 @@ Note: When installing check the type of operating system ( ex: Windows, MacOS, L
 4. Open eclipse
 5. To import the DemoApp folder into Eclipse
 6. Go to the Menu bar at the top
-   File < Import < General < Existing Projects into Workspace
+...File < Import < General < Existing Projects into Workspace
 7. To configure the Tomcat Server
 ..*Window < Show View < Servers
 ..*a. You will see the servers tab open up at the bottom
