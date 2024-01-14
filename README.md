@@ -10,7 +10,8 @@ Note: When installing check the type of operating system ( ex: Windows, MacOS, L
 3. Unzip these files
 4. Open eclipse
 5. To import the DemoApp folder into Eclipse
-6. Go to the Menu bar at the top
+   
+    Go to the Menu bar at the top
 
    File < Import < General < Existing Projects into Workspace
 
