@@ -18,9 +18,9 @@ Note: When installing check the type of operating system ( ex: Windows, MacOS, L
 
       Window < Show View < Servers
    
-   a. You will see the servers tab open up at the bottom
+   b. You will see the servers tab open up at the bottom
    
-   b. Click on the link indicating to create a new connection
+   Click on the link indicating to create a new connection
    
    c. Click on Apache then Tomcat Server 8.5v
    
@@ -28,7 +28,7 @@ Note: When installing check the type of operating system ( ex: Windows, MacOS, L
    
    e. Click on Add all then the Finish button
    
-10. You will then right click the Tomcat Server connection in the Servers tab and click Start
+10. You will then right click on the Tomcat Server connection in the Servers tab and click Start
 11. you will then click on the ">" icon next to the DemoApp and navigate to the index.html file
     
       a. The index.html file is located at
