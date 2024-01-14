@@ -28,8 +28,8 @@ Note: When installing check the type of operating system ( ex: Windows, MacOS, L
    
    e. Click on Add all then the Finish button
    
-10. You will then right click on the Tomcat Server connection in the Servers tab and click Start
-11. you will then click on the ">" icon next to the DemoApp and navigate to the index.html file
+10. Right click on the Tomcat Server connection in the Servers tab and click Start
+11. Click on the ">" icon next to the DemoApp and navigate to the index.html file
     
       a. The index.html file is located at
     
